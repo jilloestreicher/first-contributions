@@ -1925,6 +1925,7 @@ Stephan Sharpe
 - [Balaclava](https://github.com/Bajoelbalaclava)
 - [Dakota Brown](https://github.com/dchasebrown)
 - [Madhav Vij](https://github.com/MadhavVij)
+- [jilloestreicher] (https://github.com/jilloestreicher)
 - [Anupama G](https://github.com/Anu-Mer)
 - [Aashish S](https://github.com/aashishsonawane)
 - [Arthur Villar](https://github.com/tato-rj)
